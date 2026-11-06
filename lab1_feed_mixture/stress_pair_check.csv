@@ -1,0 +1,11 @@
+﻿removed_constraints,solution_exists
+protein + energy,True
+protein + fiber,False
+protein + calcium,False
+protein + phosphorus,False
+energy + fiber,True
+energy + calcium,True
+energy + phosphorus,True
+fiber + calcium,False
+fiber + phosphorus,False
+calcium + phosphorus,False
