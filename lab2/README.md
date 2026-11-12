@@ -45,8 +45,8 @@ python generate_data.py
 python model.py
 python visualize.py
 python scenario_analysis.py
-python milp_integer.py          # задание со звёздочкой
-python dual_analysis.py         # задание со звёздочкой
+python milp_integer.py          
+python dual_analysis.py         
 ```
 
 ## 4. Основные результаты (базовый сценарий)
@@ -60,7 +60,7 @@ python dual_analysis.py         # задание со звёздочкой
 - LP vs MILP (целые потоки): интегральный зазор **0%**
 - Прямая и двойственная цели совпадают с точностью 1e-13
 
-## 5. Задания со звёздочкой
+## 5. Дополнительные задания
 
 1. **Целочисленные перевозки** (`milp_integer.py`): сравнение LP-релаксации и MILP с целочисленными потоками.
 2. **Двойственная интерпретация** (`dual_analysis.py`): потенциалы узлов, приведённые стоимости, проверка сильной двойственности.
