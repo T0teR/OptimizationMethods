@@ -1,0 +1,4 @@
+LP cost: 49.1017
+MILP cost: 49.1017
+gap: 0.0
+gap_percent: 0.0

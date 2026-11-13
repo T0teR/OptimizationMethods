@@ -1,0 +1,4 @@
+﻿scenario,status,cost,towers_open
+Базовый,Optimal,49.1017,4
+Дефицит cost+20%,Optimal,58.922039999999996,4
+Стресс покрытие≥2,Optimal,107.7551,8
